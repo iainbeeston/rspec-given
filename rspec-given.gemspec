@@ -20,7 +20,7 @@ dependencies:
       - !ruby/object:Gem::Version
         version: '2.12'
   type: :runtime
-  prerelease: false
+  prerelease: true
   version_requirements: !ruby/object:Gem::Requirement
     none: false
     requirements:
